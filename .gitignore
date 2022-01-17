@@ -1,1 +1,6 @@
 artifacts/
+mail_email.md
+/dapp_wave_portal/node_modules
+/dapp_wave_portal/cache
+/dapp_wave_portal/artifacts
+.DS_Store
