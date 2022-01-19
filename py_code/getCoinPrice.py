@@ -3,7 +3,7 @@
 import requests
 
 # add your iexapi key here
-api_key = 'YOUR API HERE'
+api_key = 'YOUR KEY HERE'
 
 # pass in coin's symbol. list of symbols below
 def get_coin_price(symbol):
