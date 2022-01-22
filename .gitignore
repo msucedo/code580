@@ -3,4 +3,10 @@ mail_email.md
 /dapp_wave_portal/node_modules
 /dapp_wave_portal/cache
 /dapp_wave_portal/artifacts
+/dapp_wave_portal/README.md
+/dapp_wave_portal/secret.json
+/py_code/secret.json
+/py_code/getCoinPrice.py
 .DS_Store
+/dapp_dashboard
+/hello_world_rinkeby
